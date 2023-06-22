@@ -1,0 +1,23 @@
+{
+  "name": "ATR-Jest",
+  "version": "1.0.0",
+  "description": "# Módulos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanyRepetcki/ATR-Jest.git"
+  },
+  "keywords": [],
+  "author": "Stefany Repetcki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanyRepetcki/ATR-Jest/issues"
+  },
+  "homepage": "https://github.com/StefanyRepetcki/ATR-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
