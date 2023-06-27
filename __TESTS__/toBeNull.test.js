@@ -1,3 +1,5 @@
+// https://jestjs.io/pt-BR/docs/expect#tobenull
+
 const PersonFactory = require('../modulo-2/aula1/person_factory');
 
 const factory = new PersonFactory()

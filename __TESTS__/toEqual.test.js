@@ -1,3 +1,5 @@
+// https://jestjs.io/pt-BR/docs/expect#toequalvalue
+
 const Person = require('../modulo-1/aula2/index.js');
 
 const stefany = new Person(

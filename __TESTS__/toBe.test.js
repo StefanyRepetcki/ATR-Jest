@@ -1,3 +1,5 @@
+// https://jestjs.io/pt-BR/docs/expect#tobevalue
+
 const areaOfSquare = require('../modulo-1/aula1/index.js');
 
 describe("Calculate area of square", () => {
