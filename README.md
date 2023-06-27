@@ -20,7 +20,7 @@
 
 # Testes unitários com Jest
 
-https://github.com/professorchoren/curso_de_jest
+![alt coverage](https://github.com/StefanyRepetcki/ATR-Jest/blob/main/coverage.png?raw=true)
 # Módulos
 
 ## Módulo I
