@@ -1,6 +1,6 @@
 // https://jestjs.io/pt-BR/docs/expect#tobegreaterthannumber--bigint
 
-const average = require("../modulo-3/aula1/grade");
+const average = require("../modulo-3-4/aula1/grade");
 
 describe("Checking student grades", () => {
     test("should check if the average of the grades 7,8 and 7 is greater than 6", () => {
