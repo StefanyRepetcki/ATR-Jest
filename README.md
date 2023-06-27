@@ -1,21 +1,23 @@
+# Test with jest
+
 1. [x] Aula 1
 2. [x] Aula 2
 3. [x] Aula 3
 4. [x] Aula 4
-5. [ ] Aula 5 
-6. [ ] Aula 6
-7. [ ] Aula 7
+5. [x] Aula 5
+6. [x] Aula 6
+7. [x] Aula 7
 8. [ ] Aula 8
 9. [ ] Aula 9
 10. [ ] Aula 10
-11. [ ] Aula 11 
-12. [ ] Aula 12 
+11. [ ] Aula 11
+12. [ ] Aula 12
 13. [ ] Aula 13
-14. [ ] Aula 14 
+14. [ ] Aula 14
 15. [ ] Aula 15
 16. [ ] Aula 16
 
-    
+
 # Testes unitários com Jest
 
 https://github.com/professorchoren/curso_de_jest

@@ -3,7 +3,7 @@
 const { Client, Employee } = require('../modulo-2/aula1/person');
 const PersonFactory = require('../modulo-2/aula1/person_factory');
 
-var factory = new PersonFactory();
+const factory = new PersonFactory();
 
 describe('Factory of Persons', () => {
     test("passed a string with the client value, it should return a new client object", () => {
