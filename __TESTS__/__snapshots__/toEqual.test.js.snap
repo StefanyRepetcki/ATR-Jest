@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should check if the object stefany equal the properties of object objTest 1`] = `
+Person {
+  "birthDay": 1999-09-23T03:00:00.000Z,
+  "email": "stefany@hotmail.com",
+  "fullName": "Stefany Repetcki",
+}
+`;

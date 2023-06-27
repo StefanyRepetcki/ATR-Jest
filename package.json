@@ -4,7 +4,9 @@
   "description": "# Módulos",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:snapshot": "jest --updateSnapshot"
   },
   "repository": {
     "type": "git",

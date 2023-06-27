@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checking items of array should check if the array contains all the items in another array 1`] = `
+[
+  "Thomas",
+  "Maria",
+  "José",
+]
+`;

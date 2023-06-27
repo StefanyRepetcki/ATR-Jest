@@ -15,7 +15,7 @@
 13. [x] Aula 13
 14. [x] Aula 14
 15. [x] Aula 15
-16. [ ] Aula 16
+16. [x] Aula 16
 
 
 # Testes unitários com Jest

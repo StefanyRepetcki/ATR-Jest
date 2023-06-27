@@ -6,5 +6,6 @@ const usersAnotherArray = ["José", "Maria"];
 describe("Checking items of array", () => {
     test("should check if the array contains all the items in another array", () => {
         expect(users).toEqual(expect.arrayContaining(usersAnotherArray));
+        expect(users).toMatchSnapshot();
     });
 });

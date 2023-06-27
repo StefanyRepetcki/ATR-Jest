@@ -16,4 +16,5 @@ const objTest = new Person(
 
 test("should check if the object stefany equal the properties of object objTest", () => {
     expect(stefany).toEqual(objTest);
+    expect(stefany).toMatchSnapshot();
 });
