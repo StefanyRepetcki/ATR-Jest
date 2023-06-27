@@ -7,9 +7,9 @@
 5. [x] Aula 5
 6. [x] Aula 6
 7. [x] Aula 7
-8. [ ] Aula 8
-9. [ ] Aula 9
-10. [ ] Aula 10
+8. [x] Aula 8
+9. [x] Aula 9
+10. [x] Aula 10
 11. [ ] Aula 11
 12. [ ] Aula 12
 13. [ ] Aula 13
