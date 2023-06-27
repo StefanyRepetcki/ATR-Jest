@@ -14,7 +14,7 @@
 12. [x] Aula 12
 13. [x] Aula 13
 14. [x] Aula 14
-15. [ ] Aula 15
+15. [x] Aula 15
 16. [ ] Aula 16
 
 
